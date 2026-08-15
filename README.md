@@ -4,6 +4,8 @@ A fast, interactive web application that allows users to paste any product, serv
 
 🌐 **[Click here to view the live website!](https://review-analysis-jl.streamlit.app/)**
 
+<br>
+
 ---
 
 ## ✨ Features
@@ -12,6 +14,8 @@ A fast, interactive web application that allows users to paste any product, serv
 * **Sentiment Analysis:** Automatically detect whether the tone of the review is Positive, Negative, or Neutral.
 * **Pros & Cons Extraction:** Neatly list out the good and bad points mentioned by the reviewer.
 * **Interactive UI:** Clean, responsive, and easy-to-use interface built for seamless analysis.
+
+<br>
 
 ---
 
@@ -37,6 +41,8 @@ Click any of the action buttons—**Summary**, **Sentiment**, or **Pros and Cons
 <img src="public/image5.png" alt="Step 3: Click Button and View Results" width="600">
 <img src="public/image6.png" alt="Step 3: Click Button and View Results" width="600">
 
+<br>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -45,6 +51,8 @@ This project was built using the following technologies:
 * **Frontend:** Streamlit
 * **AI/LLM:** Google Gemini API (gemini-3.5-flash)
 * **Language:** Python
+
+<br>
 
 ---
 
@@ -69,6 +77,8 @@ Want to run this project on your own machine? It takes just a few steps:
 4. **Run the app:**
     ```bash
     streamlit run src/app.py
+
+<br>
 
 ---
 
