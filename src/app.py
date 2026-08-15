@@ -10,7 +10,7 @@ from Get_Review_Analysis import get_review_result
 
 st.set_page_config(
     page_title="Review Analysis",
-    page_icon="⚡",
+    page_icon="public/icon.png",
     layout="centered",
     initial_sidebar_state="collapsed"
 )
