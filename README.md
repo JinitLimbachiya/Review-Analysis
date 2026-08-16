@@ -2,7 +2,7 @@
 
 A fast, interactive web application that allows users to paste any product, service, or media review and instantly extract key actionable insights. 
 
-🌐 **[Click here to view the live website!](https://review-analysis-jl.streamlit.app/)**
+🌐 **[Click here to view the live website!](https://reviewanalysis-jl.onrender.com/)**
 
 <br>
 
